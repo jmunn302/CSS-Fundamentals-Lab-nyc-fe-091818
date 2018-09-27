@@ -38,4 +38,7 @@ h1 {
 div {
   display: block;
   float: left;
+  text-align: center;
+  background-color: mistyrose;
+  width: 25%;
 }
