@@ -45,3 +45,10 @@ div {
   background-color: mistyrose;
   width: 25%;
 }
+
+nav {
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
