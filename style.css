@@ -34,7 +34,8 @@ h1 {
   margin-left: auto;
 }
 
-#details {
+#details 
+div {
   display: block;
   float: left;
 }
