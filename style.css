@@ -30,4 +30,6 @@ h1 {
   p {
   width: 800px;
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
