@@ -31,3 +31,7 @@ h1 {
   width: 800px;
   text-align: center;
 }
+#featured-property {
+margin-right: auto;
+margin-left: auto;
+}
