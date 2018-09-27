@@ -26,7 +26,7 @@ h1 {
   font-size: 11px;
 }
 
-#featured-property {
+.featured-property {
   p {
   width: 800px;
   text-align: center;
